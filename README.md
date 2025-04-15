@@ -92,7 +92,7 @@ flutter pub run build_runner build
 
 | Halaman Utama | Tambah/Edit Note |
 |---------------|------------------|
-| ![main](https://via.placeholder.com/200x400.png?text=Main+Page) | ![form](https://via.placeholder.com/200x400.png?text=Form+Dialog) |
+|  |  |
 
 
 
